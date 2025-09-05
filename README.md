@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Benny647480
+- 👋 Hi, I’m M.Benny Hinn
 - 😄 Pronouns: ... HE/His
 - 👀 I’m interested in ... Game designing and Developing
 - 🔭 I’m currently working on ... 
