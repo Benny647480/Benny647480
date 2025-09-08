@@ -1,6 +1,7 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Benny647480.Benny647480&"  />
 </div>
+
 - 👋 Hi, I’m M.Benny Hinn
 - 😄 Pronouns: ... HE/His
 - 👀 I’m interested in ... Game designing and Developing
@@ -8,12 +9,10 @@
 - 🌱 I’m currently learning ... Coding
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
