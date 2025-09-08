@@ -1,3 +1,6 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Benny647480.Benny647480&"  />
+</div>
 - 👋 Hi, I’m M.Benny Hinn
 - 😄 Pronouns: ... HE/His
 - 👀 I’m interested in ... Game designing and Developing
